@@ -1,2 +1,3 @@
 # Git-demo
-learning git 
+learning git.
+it is fun experience.
